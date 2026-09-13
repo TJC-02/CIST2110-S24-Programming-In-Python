@@ -1,4 +1,4 @@
-# Python Concepts Showcase
+# Programming in Python
 
 A growing collection of Tyler's basic Python programs, demonstrating fundamental programming concepts through small, runnable examples.
 
@@ -13,7 +13,7 @@ A growing collection of Tyler's basic Python programs, demonstrating fundamental
 Install Python 3, then run this command from the repository root:
 
 ```bash
-python python-concepts/grade_calculator_python.py
+python "Programming in Python/grade_calculator_python.py"
 ```
 
 Use `python3` if that is your Python command. No third-party packages are required.
